@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.example.listaligada;
 
 public class Node {
@@ -27,3 +28,34 @@ public class Node {
     }
 
 }
+=======
+package com.example.listaligada;
+
+public class Node {
+
+    private int info;
+    private Node next;
+
+    public Node(int info) {
+        this.info = info;
+        this.next = null;
+    }
+
+    public int getInfo() {
+        return info;
+    }
+
+    public void setInfo(int info) {
+        this.info = info;
+    }
+
+    public Node getNext() {
+        return next;
+    }
+
+    public void setNext(Node next) {
+        this.next = next;
+    }
+
+}
+>>>>>>> 595c641dab35a4a4b029c6a0763c3a873ddc4766
