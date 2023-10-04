@@ -1,0 +1,7 @@
+00NOTA2023202-10-2023 19:51:1501
+02CCO  02221000Matheus Leal                                      Paradigma                               08,00007
+02CCO  02221000Vitor Gonçalves                                   Paradigma                               07,50010
+02ADS  01231000Davi Bordon                                       Paradigma                               10,00005
+02SIS  03231030Luis Henrique                                     Paradigma                               07,25015
+02REDES04232020Lucas Farias                                      Paradigma                               08,25007
+010000000005
