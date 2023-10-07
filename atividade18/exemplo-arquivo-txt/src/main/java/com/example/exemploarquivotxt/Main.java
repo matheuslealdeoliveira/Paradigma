@@ -178,7 +178,7 @@ public class Main {
         }
 
         // Grava arquivo TXT
-//        gravaArquivoTxt(lista, "aluno.txt");
+        gravaArquivoTxt(lista, "aluno.txt");
 
         System.out.println();
 

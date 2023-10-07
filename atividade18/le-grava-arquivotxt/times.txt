@@ -1,0 +1,5 @@
+00TIME07-10-2023 13:51:0401
+02001São Paulo           3193012,50true tricolor            
+02002Falmengo            1189530,00falseurubu               
+02003Corinthians         2191020,00falsetimão               
+0100003
