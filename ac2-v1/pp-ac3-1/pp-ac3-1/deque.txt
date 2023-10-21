@@ -1,0 +1,9 @@
+00PACIENTE15-10-2023 01:34:0001
+0200011NAOAna Teixeira                  Dor de cabeca       030056,00
+0200012SIMMario Silva                   Febre alta          063070,50
+0200013NAOCatia Miranda                 Dor na lombar       045061,40
+0200014NAOFabio Reis                    Dor de garganta     025065,70
+0200015SIMPaula Souza                   Gestante            027057,70
+0200016SIMLauro Macedo                  Pedra no rim        065068,30
+0200017NAOClaudia Luz                   Sinusite            035055,50
+0100007
